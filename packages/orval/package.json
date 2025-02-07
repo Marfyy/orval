@@ -6,7 +6,9 @@
   "files": [
     "dist"
   ],
-  "bin": "dist/bin/orval.js",
+  "bin": {
+    "orval": "dist/bin/orval.js"
+  },
   "type": "commonjs",
   "main": "dist/index.js",
   "keywords": [
