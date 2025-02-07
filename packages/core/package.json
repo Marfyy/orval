@@ -25,7 +25,7 @@
     "@types/lodash.uniqby": "^4.7.9",
     "@types/lodash.uniqwith": "^4.5.9",
     "@types/micromatch": "^4.0.9",
-    "typedoc": "0.26.11"
+    "typedoc": "^0.27.6"
   },
   "dependencies": {
     "@apidevtools/swagger-parser": "^10.1.0",
